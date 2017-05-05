@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+section {
+    width: 400px;
+    height: 300px;
+    padding: 50px;
+    margin: 20px;
+}
+h1{
+    margin: 0;
+    font-family: 'Architects Daughter';
+    color: #000000;
+}
+.box1 h1 {
+    color: #ffffff;
+}
+.box1{
+    background-color: #ffaaee;
+    
+}
+.box2 {
+    background-color: #77eeff
+}
